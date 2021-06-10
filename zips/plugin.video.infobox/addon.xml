@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="plugin.video.infobox"
-       name="[COLOR black][B]infobox[/B][/COLOR]"
-       version="1.0"
+       name="[COLOR black][B]INFOBOX[/B][/COLOR]"
+       version="1.1"
        provider-name="infobox00">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -25,10 +25,11 @@
   
   	
   <extension point="xbmc.addon.metadata">
-    <summary>infobox</summary>
+    <summary>INFOBOX</summary>
     <description>
-Addon em fase de testes criado para testes.             
+[B][COLOR red]INFOBOX[/COLOR][/B]-[B][COLOR black]é apenas um [/COLOR][/B][B][COLOR yellow]AGREGADOR[/COLOR][/B][/COLOR][B][COLOR ][/COLOR black] de links retirados da internet.[/B][/COLOR][B][COLOR red] *NÃO*[/COLOR][/B][/COLOR][B][COLOR ][/COLOR blck] fazemos parte de nenhuma organização ou cobramos pelos conteúdos expostos no mesmo.[/B][/COLOR]             
     </description>
     <platform>all</platform>
   </extension>
 </addon>
+</addons>
