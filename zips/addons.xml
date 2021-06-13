@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.infobox"
        name="[COLOR black][B]infobox[/B][/COLOR]"
-       version="1.0"
+       version="2.0"
        provider-name="infobox00">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -31,6 +31,8 @@
 [B]de links retirados da internet[/B].
 [B][COLOR red] *NÃO*[/COLOR][/B] [B]fazemos parte de nenhuma organização ou cobramos pelos conteúdos expostos no mesmo.[/B]         
     </description>
+	<disclaimer>[B]OBRIGADO POR USAR NOSSO ADD-ON [COLOR gold]INFOBOX[/COLOR][/B]</disclaimer>
+	<news>[B][COLOR gold]ATUALIZADO 13/06/2021[/COLOR][/B]</news>
     <platform>all</platform>
   </extension>
 </addon>
