@@ -1,7 +1,7 @@
 <?xml version="3.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.infoboxMATRIX"
        name="[COLOR black][B]infobox[/B][/COLOR]"
-       version="[B][COLOR black]MATRIX[/COLOR][B]"
+       version="3.0.0+matrix"
        provider-name="infobox00">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
